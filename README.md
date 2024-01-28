@@ -14,4 +14,4 @@ index.html ファイルを開くととパソコンの時計が表示されます
 
 ## Demo
 
-https://edkw.github.io/js-digital-clock/
+<a href="https://edkw.github.io/js-digital-clock/" target="_blank">https://edkw.github.io/js-digital-clock/</a>
