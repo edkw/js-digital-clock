@@ -11,3 +11,7 @@ index.html ファイルを開くととパソコンの時計が表示されます
 |—— script.js
 |—— style.css
 ```
+
+## Demo
+
+https://edkw.github.io/js-digital-clock/
